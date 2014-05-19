@@ -11,8 +11,7 @@ def set_articles(art):
 # This function will be called by the evaluator.
 # Check task description for details.
 def update(reward):
-    if reward == -1:
-    else:
+    pass
 
 # This function will be called by the evaluator.
 # Check task description for details.
